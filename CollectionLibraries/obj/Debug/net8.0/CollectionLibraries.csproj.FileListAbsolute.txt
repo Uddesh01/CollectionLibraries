@@ -1,0 +1,14 @@
+C:\Practice\CollectionLibraries\CollectionLibraries\bin\Debug\net8.0\CollectionLibraries.exe
+C:\Practice\CollectionLibraries\CollectionLibraries\bin\Debug\net8.0\CollectionLibraries.deps.json
+C:\Practice\CollectionLibraries\CollectionLibraries\bin\Debug\net8.0\CollectionLibraries.runtimeconfig.json
+C:\Practice\CollectionLibraries\CollectionLibraries\bin\Debug\net8.0\CollectionLibraries.dll
+C:\Practice\CollectionLibraries\CollectionLibraries\bin\Debug\net8.0\CollectionLibraries.pdb
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.AssemblyInfoInputs.cache
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.AssemblyInfo.cs
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.csproj.CoreCompileInputs.cache
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.dll
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\refint\CollectionLibraries.dll
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.pdb
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\CollectionLibraries.genruntimeconfig.cache
+C:\Practice\CollectionLibraries\CollectionLibraries\obj\Debug\net8.0\ref\CollectionLibraries.dll
